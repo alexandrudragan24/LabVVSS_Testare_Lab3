@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabVVSS_Testare.iml" filepath="$PROJECT_DIR$/.idea/modules/LabVVSS_Testare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabVVSS_Testare_main.iml" filepath="$PROJECT_DIR$/.idea/modules/LabVVSS_Testare_main.iml" group="LabVVSS_Testare" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LabVVSS_Testare_test.iml" filepath="$PROJECT_DIR$/.idea/modules/LabVVSS_Testare_test.iml" group="LabVVSS_Testare" />
+    </modules>
+  </component>
+</project>
