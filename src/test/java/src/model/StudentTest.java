@@ -31,7 +31,7 @@ public class StudentTest {
 	@Test
 	public void testSetRegNumber() {
 		s1.setRegNumber("111");
-        assertEquals("setRegNumber fail", "111",s1.getRegNumber());
+        assertEquals("setRegNumber fail", "112",s1.getRegNumber());
 
         s1.setRegNumber("112");
         assertEquals("setRegNumber fail", "112",s1.getRegNumber());
